@@ -16,7 +16,7 @@
 | Сайт проєкту | `{{WEBSITE}}` (можна залишити порожнім, якщо немає) |
 | X проєкту | `{{X_PROJECT}}` |
 | X засновника | `{{X_FOUNDER}}` |
-| GitHub | `{{GITHUB_URL}}` |
+| GitHub | `https://github.com/devcodex2025/mbiq` |
 | LinkedIn | `{{LINKEDIN}}` (необовʼязково) |
 | Юрособа | `{{ENTITY}}` (або «none») |
 | Команда | `{{TEAM_SIZE}}` |
@@ -47,7 +47,7 @@
 `{{X_FOUNDER}} / {{X_PROJECT}}`
 
 **Github** *
-`{{GITHUB_URL}}`
+`https://github.com/devcodex2025/mbiq`
 
 **Linkedin**
 `{{LINKEDIN}}`
@@ -115,7 +115,7 @@
 | 3 | Public testnet, SDK, documentation, benchmark harness | `{{M3}}` | 6 тижнів |
 
 **Links**
-Repo: `{{GITHUB_URL}}` · Demo: `{{VIDEO_URL}}`
+Repo: `https://github.com/devcodex2025/mbiq` · Demo: `{{VIDEO_URL}}`
 
 ---
 
